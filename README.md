@@ -17,6 +17,7 @@ npx drizzle-kit generate
 npx drizzle-kit migrate
 npm run seed
 npx drizzle-kit studio
+npm run dev
 ```
 
 ## Features
