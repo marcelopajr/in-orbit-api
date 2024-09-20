@@ -22,7 +22,7 @@ npm run dev
 
 ## Features
 
-> The **summary** of the features are listed below. All the features contains E2E tests.
+> The **summary** of the features are listed below.
 
 - it should be able to register a new goal
 - it should be able to get the list of all previous goal
